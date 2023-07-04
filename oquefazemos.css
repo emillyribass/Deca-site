@@ -44,5 +44,16 @@ body{
   }
 
 .whatwedo {
-  color:aliceblue ;
+  color:aliceblue;
+   font-size: 36px;
 }
+
+.mecanico{
+height: 400px;
+width: 550px;
+}
+.padeiro {
+height: 400px;
+width: 550px;
+}
+
